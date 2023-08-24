@@ -1,6 +1,6 @@
 # CounterGen website
 
-This repository contains the CounterGen Web Tool and the website that explains how CounterGen works. Check it out [here](http://www.safer-ai.org/countergen).
+This repository contains the CounterGen Web Tool and the website that explains how CounterGen works. Check it out [here](http://safer-ai.org.s3-website.us-east-2.amazonaws.com/countergenweb).
 
 Feel free to deploy it in your organization to let more people evaluate of large language models!
 
